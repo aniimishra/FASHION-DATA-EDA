@@ -1,5 +1,4 @@
-# FASHION-DATA-EDA-(Analyzed fashion e-commerce customer reviews using Python. Explored ratings, customer age, departments, recommendations, and sentiment. Created visualizations to understand customer behavior and review patterns using Pandas, NumPy, Matplotlib, Seaborn, NLTK, and TextBlob.)
-
+# Fashion E-Commerce Customer Review Analysis
 
 # Fashion Data Analysis
 
@@ -21,6 +20,6 @@ The data was explored and visualized using different charts and graphs to make t
 
 ### Tools Used:
 
-Python, Pandas, NumPy, Matplotlib, Seaborn, NLTK, and TextBlob.
+Python, Pandas, NumPy, Matplotlib, Seaborn, NLTK, and TextBlob(Took help from AI tools for this).
 
 The main goal of this project was to practice **data cleaning, exploratory data analysis (EDA), visualization, and basic sentiment analysis** while finding useful patterns in real-world customer review data.
